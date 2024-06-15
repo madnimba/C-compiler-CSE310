@@ -1,6 +1,8 @@
+_**Compiler for a subset language of C - CSE310**_
+
 This repository contains implementation of a compiler for a subset of language C. These works have been done as assignments for the sessional course CSE310 of CSE, BUET.
 
-Language used:
+**Language used:**
 1. C++
 2. Lex
 3. Yacc
@@ -15,4 +17,4 @@ Features Included:
 4. Builds a parsetree
 5. Generates log-file for better understanding
 
-You can take inspirations from the code implementation. Exact copying of the code is discouraged. 
+You can take inspirations from the code implementation. **Exact copying of the code is discouraged. **
