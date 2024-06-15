@@ -2,7 +2,7 @@ This repository contains implementation of a compiler for a subset of language C
 
 Language used:
 1. C++
-2. Flex
+2. Lex
 3. Yacc
 
 Each offline has been an increment to the previous one. Offline 4 - Intermediate code generation contains the final compiler for the subset of C.
